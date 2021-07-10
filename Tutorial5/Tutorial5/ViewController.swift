@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController , UITableViewDelegate, UITableViewDataSource {
-    //aaa
+    //aaaああああ
     // APIのURL
     let url = URL(string: "https://5xqq8vderh.execute-api.ap-northeast-1.amazonaws.com/Prod/practice")!
     var list = [Item]()
